@@ -10,7 +10,7 @@ El reporte se compone de tres partes principales:
 
 -Gel de alta resolución.
 
-<img src="https://github.com/EstrellaC/Septiembre-2016/blob/master/gel.jpg?raw=true" / width = 25%>
+<img src="https://github.com/EstrellaC/Septiembre-2016/blob/master/gel.jpg?raw=true" / width = 50%>
 
 -Tablas de resultados.
 
@@ -41,8 +41,8 @@ A partir de esta tabla debe realizarse la depuración, esto es asignando el alel
 
 Considerando que las mutaciones pueden ocurrir de dos en dos pares de bases, de tres en tres o de cinco en cinco se realiza una lista con las posibles opciones:
 
-<img src="https://github.com/EstrellaC/Septiembre-2016/blob/master/posibles.jpg?raw=true" / width = 50%>
+<img src="https://github.com/EstrellaC/Septiembre-2016/blob/master/posibles.jpg?raw=true" / width = 25%>
 
 Al final se debe tener una matriz depurada, la cual pude ser utilizada para realizar análisis posteriores.
 
-<img src="https://github.com/EstrellaC/Septiembre-2016/blob/master/depuarada.jpg?raw=true" / width = 50%>
+<img src="https://github.com/EstrellaC/Septiembre-2016/blob/master/depuarada.jpg?raw=true" / width = 25%>
