@@ -45,4 +45,4 @@ Considerando que las mutaciones pueden ocurrir de dos en dos pares de bases, de 
 
 Al final se debe tener una matriz depurada, la cual pude ser utilizada para realizar análisis posteriores.
 
-<img src="https://github.com/EstrellaC/Septiembre-2016/blob/master/depuarada.jpg?raw=true" / width = 25%>
+<img src="https://github.com/EstrellaC/Septiembre-2016/blob/master/depuarada.jpg?raw=true" / width = 15%>
