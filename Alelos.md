@@ -32,7 +32,7 @@ Por encabezado debe tener el nombre de la población que se está analizando, as
 
 La primera columna puede pertenecer al código/nombre que le asigna el QIAxcel a cada muestra, posteriormente pueden utilizarse dos columnas para realizar las anotaciones correspondientes de los códigos, y finalmente dos columnas más para la asignación de alelos.
 
-<img src="https://github.com/EstrellaC/Septiembre-2016/blob/master/resultados1.jpg?raw=true" / width = 50%>
+<img src="https://github.com/EstrellaC/Septiembre-2016/blob/master/resultados1.jpg?raw=true" / width = 25%>
 
 A partir de esta tabla debe realizarse la depuración, esto es asignando el alelo correspondiente de cada individuo, utilizando el siguiente criterio: 
 
